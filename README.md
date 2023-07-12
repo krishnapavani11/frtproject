@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://krishnapavani11.github.io/frtproject/
-**Project demo video link** -
+**Project demo video link** - https://youtu.be/-Fm2vxO2Sb4
 
 **Azure Technologies Used for Project**
 
